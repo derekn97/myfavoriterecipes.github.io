@@ -12,6 +12,8 @@ body {
 }
 
 .flex-column {
+    word-wrap: break-word;
+    width: 500px;
     display: flex;
     flex-direction: column;
 }
