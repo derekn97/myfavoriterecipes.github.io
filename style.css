@@ -12,9 +12,9 @@ body {
 }
 
 .flex-column {
+    display: flex;
     word-wrap: break-word;
     max-width: 1500px;
-    display: flex;
     flex-direction: column;
     align-self: center;
 }
