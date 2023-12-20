@@ -10,9 +10,7 @@ body {
 body {
     text-align: center;
 }
-nav {
-    margin-bottom: 1.5em;
-}
+
 article {
     font-size: 0; /*fix white space*/
 }
