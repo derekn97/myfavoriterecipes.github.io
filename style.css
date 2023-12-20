@@ -11,15 +11,19 @@ body {
     text-align: center;
 }
 
-article {
-    font-size: 0; /*fix white space*/
+.flex-column {
     display: flex;
+    flex-direction: column;
 }
-article > section {
-    font-size: 16px;
-    display: inline-block;
-    width: 500px;
-    border: 1px outset black;
-    padding: 30px;
-    box-sizing: border-box;
+
+.div10 {
+    align-self: start;
+}
+
+.div11 {
+    align-self: center;
+}
+
+.div12 {
+    align-self: end;
 }
