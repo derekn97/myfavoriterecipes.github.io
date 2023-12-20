@@ -17,7 +17,7 @@ body {
 }
 
 .div10 {
-    align-self: start;
+    align-self: Left;
 }
 
 .div11 {
@@ -25,5 +25,5 @@ body {
 }
 
 .div12 {
-    align-self: end;
+    align-self: Right;
 }
