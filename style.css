@@ -13,9 +13,10 @@ body {
 
 .flex-column {
     word-wrap: break-word;
-    width: 500px;
+    width: 1000px;
     display: flex;
     flex-direction: column;
+    align-self: center;
 }
 
 .div10 {
