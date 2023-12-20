@@ -19,7 +19,7 @@ article {
 article > section {
     font-size: 16px;
     display: inline-block;
-    width: 250px;
+    width: 500px;
     border: 1px outset black;
     padding: 30px;
     box-sizing: border-box;
