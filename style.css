@@ -13,6 +13,7 @@ body {
 
 article {
     font-size: 0; /*fix white space*/
+    display: flex;
 }
 article > section {
     font-size: 16px;
